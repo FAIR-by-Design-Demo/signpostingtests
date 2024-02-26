@@ -1,10 +1,14 @@
 cff-version: 1.2.0
 message: "If you use these learning materials, please cite it as below."
 authors:
-  - family-names: Surname
-    given-names: First_Name
+  - family-names: Doe
+    given-names: John
     orcid: https://orcid.org/1234-5678-9101-1121
-    affiliation: Organization
+    affiliation: Organization 1
+  - family-names: Doe
+    given-names: Jane
+    orcid: https://orcid.org/1234-5678-9101-1122
+    affiliation: Organization 2
 title: "Training Name"
 abstract: "Training description"
 version: 1.0.0

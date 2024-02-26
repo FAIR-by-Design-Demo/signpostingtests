@@ -29,7 +29,7 @@ template: signposting.html
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Title of training.
 
 # Type (Course/Workshop/Webinar)
 
