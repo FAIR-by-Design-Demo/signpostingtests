@@ -1,0 +1,35 @@
+{
+  "creators": [
+    {
+      "affiliation": "Organization 1",
+      "name": "Doe, John",
+      "orcid": "1234-5678-9101-1121"
+    },
+    {
+      "affiliation": "Organization 2",
+      "name": "Doe, Jane",
+      "orcid": "1234-5678-9101-1122"
+    }
+  ],
+  "description": "Training description",
+  "keywords": [
+    "thefirstkeyword",
+    "thesecondkeyword",
+    "a third keyword"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "1970-01-01",
+  "title": "Training Name",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
